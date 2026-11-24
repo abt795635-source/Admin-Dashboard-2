@@ -1,0 +1,6 @@
+{
+  "name": "COD Desk",
+  "description": "Modern admin dashboard for managing Cash-on-Delivery (COD) orders powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
